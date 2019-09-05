@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "message": "get all records",
+  "results": [
+    {
+      "_id": "5cf9b3d5676a785b07a2e7b3",
+      "nombre": "Sergio",
+      "apellido": "Hidalgo",
+      "__v": 0
+    },
+    {
+      "_id": "5cf9b3da676a785b07a2e7b5",
+      "nombre": "Sharon",
+      "apellido": "Stone",
+      "__v": 0
+    },
+    {
+      "_id": "5d5e1eb066d2597e6f705cab",
+      "nombre": "Kike",
+      "apellido": "Sanchez",
+      "__v": 0
+    },
+    {
+      "_id": "5d6f273966d2597e6f705cb4",
+      "nombre": "andres",
+      "apellido": "Saavedra",
+      "__v": 0
+    },
+    {
+      "_id": "5d6f288c66d2597e6f705cb7",
+      "nombre": "Bruce",
+      "apellido": "Wayne",
+      "__v": 0
+    },
+    {
+      "_id": "5d6f28a066d2597e6f705cb8",
+      "nombre": "Clark",
+      "apellido": "Kent",
+      "__v": 0
+    },
+    {
+      "_id": "5d71131166d2597e6f705cbe",
+      "nombre": "Steve",
+      "apellido": "Rogers",
+      "__v": 0
+    },
+    {
+      "_id": "5d7114c566d2597e6f705cc0",
+      "nombre": "Tony",
+      "apellido": "Stark",
+      "__v": 0
+    }
+  ]
+}
